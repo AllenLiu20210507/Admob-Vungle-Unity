@@ -14,8 +14,6 @@ This project may help to reproduce issues and narrow down the root cause.
 
 - Input your ad unit ids to the file Constant.cs
 
-## For more details, please check Mopub integration document
-https://developers.mopub.com/publishers/unity/integrate/
 
 ## Tested Version
 
