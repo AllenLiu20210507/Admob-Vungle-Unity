@@ -21,7 +21,7 @@ Mobile Ads Unity plugin:
 4.2.1
 
 GoogleMobileAdsVungleMediation: 
-3.2.0（include Vungle SDK iOS：6.4.6  Android：6.4.11）
+3.2.0（include Vungle SDK iOS：6.8.1  Android：6.8.1）
 
 
 
